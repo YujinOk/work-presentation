@@ -270,6 +270,11 @@ h3 {
 }
 
 /* Special Elements */
+.strength-title {
+    color: var(--primary-color);
+    font-size: 1.5rem;
+}
+
 .goal-main {
     font-size: 1.8rem;
     font-weight: 700;
